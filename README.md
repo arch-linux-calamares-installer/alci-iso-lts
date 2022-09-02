@@ -1,4 +1,4 @@
-# ALCI DEVELOPMENT/DESKTOP
+# ALCI LTS
 
 # Arch Linux Calamares Installer or ALCI
 
@@ -8,7 +8,7 @@ Use the correct version of Archiso to build the iso.
 
 Download the content of the github with (use the terminal)
 
-`git clone https://github.com/arch-linux-calamares-installer/alci-iso-dev`
+`git clone https://github.com/arch-linux-calamares-installer/alci-iso-lts`
 
 # Pacman.conf in archiso folder
 

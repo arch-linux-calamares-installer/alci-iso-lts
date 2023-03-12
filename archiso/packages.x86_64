@@ -269,3 +269,6 @@ linux-lts
 linux-lts-headers
 mate
 caja-open-terminal
+
+#grub theme
+alci-grub-theme-git
